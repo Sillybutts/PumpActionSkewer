@@ -27,6 +27,8 @@ This uses 46cm threaded rods, which are longer than standard Skewer or Caliburn 
 
 ## Images
 
+<img src="GHimages/ThumbsUp.jpg" width="500">
+
 <img src="GHimages/PASkewer1.png" width="500">
 
 <img src="GHimages/PASkewer2.png" width="500">
@@ -46,7 +48,5 @@ This uses 46cm threaded rods, which are longer than standard Skewer or Caliburn 
 <img src="GHimages/RodAndNuts2.jpeg" width="500">
 
 <img src="GHimages/RodAndNuts3.jpeg" width="500">
-
-<img src="GHimages/ThumbsUp.jpg" width="500">
 
 <img src="GHimages/unskewered skewer.jpg" width="500">
