@@ -11,7 +11,7 @@ A pump action conversion kit for the Skewer homemade Nerf blaster.
 
 https://www.youtube.com/watch?v=IUbI1ZVeWzk
 
-This kit replaces about half of the parts in the Skewer to make it pump action, like a Talon Claw. The replaced or new parts are marked in red in the second picture of this listing.
+This kit replaces about half of the parts in the Skewer to make it pump action, like a Talon Claw. The replaced or new parts are marked in red in the third picture of this listing.
 
 ### ASSEMBLY NUT PLACEMENT PHOTOS ARE PROVIDED
 
