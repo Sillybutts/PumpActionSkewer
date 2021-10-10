@@ -1,10 +1,23 @@
 # PumpActionSkewer
 A pump action conversion kit for the Skewer homemade Nerf blaster.
 
+- Changelog: 9-9-21 2:42PM EST: Changed the Frail, BarrelCollet, MuzzleCap, and MuzzleBack. Frail doesn't need the nut holes that were present (leftover from the original Skewer), more tolerance for threaded rod length has been added to the muzzle bits, and the muzzles now use 2 4-40 screws to attach instead of 1. BarrelCollet has been renamed to MuzzleCapCollet to better reflect that you use one or the other, not both.
 
-This is a pump action conversion kit for the Skewer homemade designed by Charamile Designs. This basically turns the Skewer into a smoother, cooler Talon Claw. 
+- Changelog: 9-9-21 7:50PM EST: Foregrip changed slightly to slide easier and not rub against other parts.
 
-All STLs were exported in print orientation.
+- Changelog: 10-8-21 9:50PM EST: Updated FrailPA to have proper pin hole depth, added picatinny rail options for FrailPA and rail_top.
+
+
+
+https://www.youtube.com/watch?v=IUbI1ZVeWzk
+
+This kit replaces about half of the parts in the Skewer to make it pump action, like a Talon Claw. The replaced or new parts are marked in red in the second picture of this listing.
+
+### ASSEMBLY NUT PLACEMENT PHOTOS ARE PROVIDED
+
+The kit requires Talon Claw v3 priming bars to work. It uses the same TC Ramrod that the Skewer usually uses. It also uses TC/Caliburn rambases, and can use TCv3 plungers as well, though a Skewer-looking one is provided in this listing.
+
+This uses 46cm threaded rods, which are longer than standard Skewer or Caliburn rods.
 
 ## Misc.
 
