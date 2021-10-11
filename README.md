@@ -7,6 +7,8 @@ A pump action conversion kit for the Skewer homemade Nerf blaster.
 
 - Changelog: 10-8-21 9:50PM EST: Updated FrailPA to have proper pin hole depth, added picatinny rail options for FrailPA and rail_top.
 
+- Changelog: 10-10-21 8:40PM EST: Updated ForegripPA to be fully symmetrical. Somehow, it was not the same on both sides! Just a small error I never noticed.
+
 
 
 https://www.youtube.com/watch?v=IUbI1ZVeWzk
