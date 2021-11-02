@@ -1,3 +1,5 @@
+<img src="GHimages/GitHubSTEPfiledownloadtutorial.png" width="700">
+
 # PumpActionSkewer
 A pump action conversion kit for the Skewer homemade Nerf blaster.
 
