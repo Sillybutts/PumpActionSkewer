@@ -19,7 +19,7 @@ This kit replaces about half of the parts in the Skewer to make it pump action, 
 
 The kit requires Talon Claw v3 priming bars to work. It uses the same TC Ramrod that the Skewer usually uses. It also uses TC/Caliburn rambases, and can use TCv3 plungers as well, though a Skewer-looking one is provided in this listing.
 
-This uses 46cm threaded rods, which are longer than standard Skewer or Caliburn rods.
+This uses 46cm threaded rods, which are longer than standard Skewer or Caliburn rods. You can find threaded rods this length at hardware stores. If they don't have 10-32 threaded rod, 10-24 + the new nuts for it, would work.
 
 ## Misc.
 
