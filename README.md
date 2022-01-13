@@ -25,6 +25,7 @@ This uses 46cm threaded rods, which are longer than standard Skewer or Caliburn 
 
 All STLs were exported in print orientation. STEP and F3D are also provided.
 
+**If you are having issues with any of my designs, let me know on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
 
 **If you wish to print and sell this item, please contact me for licensing. I can be reached on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer). We will also need to talk to Taffy.**
 
