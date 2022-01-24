@@ -31,7 +31,18 @@ All STLs were exported in print orientation. STEP and F3D are also provided.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
-- **If you want to support what I do, go buy stuff at my RedBubble! https://www.redbubble.com/people/Sillybutts/shop**
+
+## If you like what I do, please consider supporting me!
+
+**I don't charge for my files, so any donations or merch purchases would be greatly appreciated!**
+
+- I have a RedBubble full of fun Nerf-y designs! https://www.redbubble.com/people/Sillybutts/shop
+- I have pages on Patreon and BuyMeACoffee! 
+- - https://www.patreon.com/sillybutts
+- - https://www.buymeacoffee.com/sillybutts 
+
+
+
 
 ## Images
 
