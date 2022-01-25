@@ -36,10 +36,10 @@ All STLs were exported in print orientation. STEP and F3D are also provided.
 
 **I don't charge for my files, so any donations or merch purchases would be greatly appreciated!**
 
-- I have a RedBubble full of fun Nerf-y designs! https://www.redbubble.com/people/Sillybutts/shop
+- I have a RedBubble full of fun Nerf-y designs! <a href="https://www.redbubble.com/people/Sillybutts/shop/"><img alt="RedBubble Button" style="border-width:0" src="GHimages/RedbubbleButton.png" height="50" /></a> https://www.redbubble.com/people/Sillybutts/shop 
 - I have pages on Patreon and BuyMeACoffee! 
-- - https://www.patreon.com/sillybutts
-- - https://www.buymeacoffee.com/sillybutts 
+- - <a href="https://www.patreon.com/sillybutts/"><img alt="Patreon Button" style="border-width:0" src="GHimages/PatreonButton.png" height="50" /></a> https://www.patreon.com/sillybutts 
+- - <a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> https://www.buymeacoffee.com/sillybutts 
 
 
 
