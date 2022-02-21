@@ -56,4 +56,4 @@ All STLs were exported in print orientation. STEP and F3D are also provided.
 
 ## Images
 
-<img src="GHimages/ThumbsUp.jpg" width="500">
+<img src="GHimages/" width="500">
