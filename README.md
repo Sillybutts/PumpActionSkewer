@@ -23,11 +23,11 @@ Fully printed/assembled blasters are available from these sellers:
 
 Full hardware list/BOM: LINK
 
-This blaster is compatible with TC/Caliburn rambases, as well as TCv3 plungers. 
+This blaster is compatible with TCv3 rambases, as well as TCv3 plungers. 
 
-This blaster uses 
 
 ## Printing Info
+
 
 
 ## Misc.
