@@ -1,25 +1,34 @@
 # PumpActionSkewer
-A pump action conversion kit for the Skewer homemade Nerf blaster.
+A pump action version of the Charamile Designs Skewer.
 
-- Changelog: 9-9-21 2:42PM EST: Changed the Frail, BarrelCollet, MuzzleCap, and MuzzleBack. Frail doesn't need the nut holes that were present (leftover from the original Skewer), more tolerance for threaded rod length has been added to the muzzle bits, and the muzzles now use 2 4-40 screws to attach instead of 1. BarrelCollet has been renamed to MuzzleCapCollet to better reflect that you use one or the other, not both.
+- Changelog: 2-20-22 8:00 EST: Updated design to V2, with tons of improvements. Wiped previous changelogs, as they are now non-applicable. v1 files are still available in a .zip file.
 
-- Changelog: 9-9-21 7:50PM EST: Foregrip changed slightly to slide easier and not rub against other parts.
+## Description
 
-- Changelog: 10-8-21 9:50PM EST: Updated FrailPA to have proper pin hole depth, added picatinny rail options for FrailPA and rail_top.
+https://www.youtube.com/watch?v=gQN2X9iRdS4
 
-- Changelog: 10-10-21 8:40PM EST: Updated ForegripPA to be fully symmetrical. Somehow, it was not the same on both sides! Just a small error I never noticed.
+This is a full overhaul of the Charamile Designs Skewer, turning it into an extremely smooth, very sturdy pump action blaster.
 
 
+## "Isn't this just a Talon Claw?"
 
-https://www.youtube.com/watch?v=IUbI1ZVeWzk
 
-This kit replaces about half of the parts in the Skewer to make it pump action, like a Talon Claw. The replaced or new parts are marked in red in the third picture of this listing.
+## Hardware and Availability
 
-### ASSEMBLY NUT PLACEMENT PHOTOS ARE PROVIDED
+Hardware is available from these sellers:
+- CaptainSlug: LINK
 
-The kit requires Talon Claw v3 priming bars to work. It uses the same TC Ramrod that the Skewer usually uses. It also uses TC/Caliburn rambases, and can use TCv3 plungers as well, though a Skewer-looking one is provided in this listing.
+Fully printed/assembled blasters are available from these sellers:
+- PERSON: LINK
 
-This uses 46cm threaded rods, which are longer than standard Skewer or Caliburn rods. You can find threaded rods this length at hardware stores. If they don't have 10-32 threaded rod, 10-24 + the new nuts for it, would work.
+Full hardware list/BOM: LINK
+
+This blaster is compatible with TC/Caliburn rambases, as well as TCv3 plungers. 
+
+This blaster uses 
+
+## Printing Info
+
 
 ## Misc.
 
@@ -48,25 +57,3 @@ All STLs were exported in print orientation. STEP and F3D are also provided.
 ## Images
 
 <img src="GHimages/ThumbsUp.jpg" width="500">
-
-<img src="GHimages/PASkewer1.png" width="500">
-
-<img src="GHimages/PASkewer2.png" width="500">
-
-<img src="GHimages/PASkewer3.png" width="500">
-
-<img src="GHimages/PASkewer4.png" width="500">
-
-<img src="GHimages/PASkewer5.png" width="500">
-
-<img src="GHimages/PASkewer6.png" width="500">
-
-<img src="GHimages/PASkewer7.png" width="500">
-
-<img src="GHimages/RodAndNuts1.jpeg" width="500">
-
-<img src="GHimages/RodAndNuts2.jpeg" width="500">
-
-<img src="GHimages/RodAndNuts3.jpeg" width="500">
-
-<img src="GHimages/unskewered skewer.jpg" width="500">
