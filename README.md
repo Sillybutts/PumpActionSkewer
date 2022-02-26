@@ -28,11 +28,11 @@ This blaster is compatible with TCv3 rambases, as well as TCv3 plungers.
 
 ## Printing Info
 
-
+All STLs were exported in print orientation. STEP and F3D are also provided.
 
 ## Misc.
 
-All STLs were exported in print orientation. STEP and F3D are also provided.
+**If you make any of my designs, I'd love to see yours! Feel free to message me on Discord (Sillybutts#5905) or tag me on a post on Reddit (u/SillyTheGamer).**
 
 **If you are having issues with any of my designs, let me know on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
 
