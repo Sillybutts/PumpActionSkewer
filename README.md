@@ -1,7 +1,7 @@
 # PumpActionSkewer
 A pump action version of the Charamile Designs Skewer.
 
-- Changelog: 2-20-22 8:00 EST: Updated design to V2, with tons of improvements. Wiped previous changelogs, as they are now non-applicable. v1 files are still available in a .zip file.
+- Changelog: 2-26-22 8:00 EST: Updated design to V2, with tons of improvements. Wiped previous changelogs, as they are now non-applicable. v1 files are still available in a .zip file.
 
 ## Description
 
