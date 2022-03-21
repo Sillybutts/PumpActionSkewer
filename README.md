@@ -1,7 +1,7 @@
 # PumpActionSkewer
 A pump action version of the Charamile Designs Skewer.
 
-- Changelog: 3-21-22 8:00 EST: Updated design to V2, with tons of improvements. Wiped previous changelogs, as they are now non-applicable. v1 files are still available in a .zip file.
+- Changelog: 3-21-22: Updated design to V2, with tons of improvements. Wiped previous changelogs, as they are now non-applicable. v1 files are still available in a .zip file.
 
 ## Description
 
@@ -12,11 +12,13 @@ This is a full overhaul of the Charamile Designs Skewer, turning it into an extr
 
 ### "Isn't this just a Talon Claw?"
 
+no
 
 ## Hardware and Availability
 
 Hardware is available from these sellers:
-- CaptainSlug: LINK
+- CaptainSlug: https://www.etsy.com/listing/1002947730/skewer-homemade-by-taffy-hardware-kit?variation0=2494432882 (Variants under the Skewer hardware listing)
+- SilverFoxIndustries: https://silverfoxindustries.shop/collections/new-products/products/pump-action-skewer-hardware-kit
 
 Fully printed/assembled blasters are available from these sellers:
 - PERSON: LINK
