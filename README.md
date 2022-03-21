@@ -1,7 +1,7 @@
 # PumpActionSkewer
 A pump action version of the Charamile Designs Skewer.
 
-- Changelog: 3-10-22 8:00 EST: Updated design to V2, with tons of improvements. Wiped previous changelogs, as they are now non-applicable. v1 files are still available in a .zip file.
+- Changelog: 3-21-22 8:00 EST: Updated design to V2, with tons of improvements. Wiped previous changelogs, as they are now non-applicable. v1 files are still available in a .zip file.
 
 ## Description
 
@@ -51,7 +51,7 @@ All STLs were exported in print orientation. STEP and F3D are also provided.
 
 <a href="https://www.buymeacoffee.com/sillybutts/"><img alt="BuyMeACoffee Button" style="border-width:0" src="GHimages/buymeacoffeeButton2.png" height="50" /></a> https://www.buymeacoffee.com/sillybutts One-time donations
 
-
+And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 
 ## Images
