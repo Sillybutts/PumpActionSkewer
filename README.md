@@ -17,7 +17,7 @@ This is a full overhaul of the Charamile Designs Skewer, turning it into an extr
 
 No. This blaster varies greatly from the Talon Claw. It is more similar in feel to an SBL than a TCv3.
 
-Compared to a TCv3, the blaster is shorter blaster overall, has a shorter prime, a smoother prime, better ergonomics, a smoother magwell, and a ton of small quality of life improvements.
+Compared to a TCv3, the blaster is shorter in overall length, has a shorter and smoother prime, better ergonomics, a smoother magwell, and a ton of small quality of life improvements.
 
 Also, IMO, the Pump Skewer has much sleeker aesthetics.
 
@@ -35,12 +35,22 @@ Fully printed/assembled blasters are available from these sellers:
 
 Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1T-M-nh51F4b9XmtsPprrcFsghNnCDYY_msC4naolbu8/
 
-This blaster is compatible with TCV3 rambases, TC ramrods, and TCV3 plungers. This blaster uses the same trigger, sear, and mag release as the Skewer, so any replacements for those parts should work. This blaster works with any TC length barrels. You can also use x-orings meant for a TC in this blaster. This blaster uses TC length springs, such as K25, 788, or SF25/Pro25.
+This blaster is compatible with TCV3 rambases, TC ramrods, and TCV3 plungers. This blaster uses the same trigger, sear, and mag release as the Skewer, so any replacements for those parts should work. You can also use x-orings meant for a TC in this blaster. 
+
+This blaster works with any TC length barrels. 
+
+This blaster uses TC length springs, such as K25, 788, or SF25/Pro25.
 
 
 ## Printing Info
 
 All STLs were exported in print orientation. F3D source files are also provided.
+
+Infills:
+- 69% 420 Walls
+- - thing
+- - thing
+- - thing
 
 ## Assembly
 
