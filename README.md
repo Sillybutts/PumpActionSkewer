@@ -5,16 +5,24 @@ A pump action version of the Charamile Designs Skewer.
 
 ## Description
 
-https://www.youtube.com/watch?v=gQN2X9iRdS4
+General blaster overview: https://www.youtube.com/watch?v=gQN2X9iRdS4
+My attempt to show how smooth this blaster is: https://www.youtube.com/watch?v=RM3zugnxCN0
 
 This is a full overhaul of the Charamile Designs Skewer, turning it into an extremely smooth, very sturdy pump action blaster.
 
 
 ### "Isn't this just a Talon Claw?"
 
-no
+No. This blaster varies greatly from the Talon Claw. It is more similar in feel to an SBL than a TCv3.
 
-## Hardware and Availability
+Compared to a TCv3, the blaster is shorter blaster overall, has a shorter prime, a smoother prime, better ergonomics, a smoother magwell, and a ton of small quality of life improvements.
+
+Also, IMO, the Pump Skewer has much sleeker aesthetics.
+
+I personally believe that this is nicer and smoother than all the other similar blasters currently out there. It might not have all the features of those other blasters, but it is a nicer blaster as a whole. I am, of course, biased ;)
+
+
+## Hardware, Compatability, and Availability
 
 Hardware is available from these sellers:
 - CaptainSlug: https://www.etsy.com/listing/1002947730/skewer-homemade-by-taffy-hardware-kit?variation0=2494432882 (Variants under the Skewer hardware listing)
@@ -23,14 +31,18 @@ Hardware is available from these sellers:
 Fully printed/assembled blasters are available from these sellers:
 - PERSON: LINK
 
-Full hardware list/BOM: LINK
+Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1T-M-nh51F4b9XmtsPprrcFsghNnCDYY_msC4naolbu8/
 
-This blaster is compatible with TCv3 rambases, as well as TCv3 plungers. 
+This blaster is compatible with TCV3 rambases, TC ramrods, and TCV3 plungers. This blaster uses the same trigger, sear, and mag release as the Skewer, so any replacements for those parts should work. This blaster works with any TC length barrels. You can also use x-orings meant for a TC in this blaster. This blaster uses TC length springs, such as K25, 788, or SF25/Pro25.
 
 
 ## Printing Info
 
-All STLs were exported in print orientation. STEP and F3D are also provided.
+All STLs were exported in print orientation. F3D source files are also provided.
+
+## Assembly
+
+PICS GO HERE
 
 ## Misc.
 
