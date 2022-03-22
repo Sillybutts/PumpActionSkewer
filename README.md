@@ -6,7 +6,9 @@ A pump action version of the Charamile Designs Skewer.
 ## Description
 
 General blaster overview: https://www.youtube.com/watch?v=gQN2X9iRdS4
+
 My attempt to show how smooth this blaster is: https://www.youtube.com/watch?v=RM3zugnxCN0
+
 
 This is a full overhaul of the Charamile Designs Skewer, turning it into an extremely smooth, very sturdy pump action blaster.
 
