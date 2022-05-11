@@ -31,7 +31,8 @@ Hardware is available from these sellers:
 - SilverFoxIndustries: https://silverfoxindustries.shop/collections/new-products/products/pump-action-skewer-hardware-kit
 
 Fully printed/assembled blasters are available from these sellers:
-- PERSON: LINK
+- SilverFoxIndustries: WIP
+- SuperStressed: https://www.etsy.com/shop/SuperStressed3D
 
 Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1T-M-nh51F4b9XmtsPprrcFsghNnCDYY_msC4naolbu8/
 
@@ -58,7 +59,7 @@ PICS GO HERE
 
 ## Misc.
 
-**If you make any of my designs, I'd love to see yours! Feel free to message me on Discord (Sillybutts#5905) or tag me on a post on Reddit (u/SillyTheGamer).**
+**If you build any of my designs, I'd love to see yours! Feel free to message me on Discord (Sillybutts#5905) or tag me on a post on Reddit (u/SillyTheGamer).**
 
 **If you are having issues with any of my designs, let me know on Discord (Sillybutts#5905) or Reddit (u/SillyTheGamer).**
 
