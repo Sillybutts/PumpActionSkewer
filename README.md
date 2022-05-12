@@ -3,15 +3,11 @@ A pump action version of the Charamile Designs Skewer.
 
 - Changelog: 5-12-22: Updated design to V2, with tons of improvements. Wiped previous changelogs, as they are now non-applicable. v1 files are still available in a .zip file.
 
-<img src="GHimages/DFEF8FEE-68A9-46DF-8DDC-1349788B780F.jpg" width="500">
-<img src="GHimages/FAEECA8B-545A-49CA-9C09-9B65EB5A568B.jpg" width="500">
-<img src="GHimages/IMG_1261.jpg" width="500">
-<img src="GHimages/IMG_7059.jpg" width="500">
-<img src="GHimages/PXL_20220424_155601000.jpg" width="500">
-<img src="GHimages/PXL_20220426_164134973.jpg" width="500">
+<img src="GHimages/Pump%20Skewer%20vs%20normal%20Skewer%20-%20Copy.jpg" width="200"><img src="GHimages/DFEF8FEE-68A9-46DF-8DDC-1349788B780F.jpg" width="200"><img src="GHimages/FAEECA8B-545A-49CA-9C09-9B65EB5A568B.jpg" width="200"><img src="GHimages/IMG_1261.jpg" width="200"><img src="GHimages/IMG_7059.jpg" width="200"><img src="GHimages/PXL_20220424_155601000.jpg" width="200"><img src="GHimages/PXL_20220426_164134973.jpg" width="200">
 
 ## Description
 
+<img src="GHimages/Pump%20Skewer%20vs%20normal%20Skewer%20-%20Copy.jpg" width="500">
 <img src="GHimages/Barrel_retentions.png" width="500">
 <img src="GHimages/Options.png" width="500">
 
@@ -92,6 +88,7 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 <img src="GHimages/Barrel_retentions.png" width="500">
 <img src="GHimages/Options.png" width="500">
+<img src="GHimages/Pump%20Skewer%20vs%20normal%20Skewer%20-%20Copy.jpg" width="500">
 <img src="GHimages/DFEF8FEE-68A9-46DF-8DDC-1349788B780F.jpg" width="500">
 <img src="GHimages/FAEECA8B-545A-49CA-9C09-9B65EB5A568B.jpg" width="500">
 <img src="GHimages/IMG_1261.jpg" width="500">
