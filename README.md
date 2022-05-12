@@ -33,7 +33,6 @@ I personally believe that this is nicer and smoother than all the other similar 
 ## Hardware, Compatability, and Availability
 
 Hardware is available from these sellers:
-- ~~CaptainSlug: https://www.etsy.com/listing/1002947730/skewer-homemade-by-taffy-hardware-kit?variation0=2494432882 (Variants under the Skewer hardware listing)~~
 - SilverFoxIndustries: https://silverfoxindustries.shop/collections/new-products/products/pump-action-skewer-hardware-kit
 
 Fully printed/assembled blasters are available from these sellers:
