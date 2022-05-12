@@ -31,7 +31,7 @@ Hardware is available from these sellers:
 - SilverFoxIndustries: https://silverfoxindustries.shop/collections/new-products/products/pump-action-skewer-hardware-kit
 
 Fully printed/assembled blasters are available from these sellers:
-- SilverFoxIndustries: WIP
+- SilverFoxIndustries: https://silverfoxindustries.shop/products/pump-action-skewer-by-sillybutts
 - SuperStressed: https://www.etsy.com/shop/SuperStressed3D
 
 Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1T-M-nh51F4b9XmtsPprrcFsghNnCDYY_msC4naolbu8/
@@ -48,14 +48,11 @@ This blaster uses TC length springs, such as K25, 788, or SF25/Pro25.
 All STLs were exported in print orientation. F3D source files are also provided.
 
 Infills:
-- 69% 420 Walls
-- - thing
-- - thing
-- - thing
+Print everything small at 4 walls, 20% infill. Everything large at 4 walls, 10% infill.
 
 ## Assembly
 
-PICS GO HERE
+Video: WIP
 
 ## Misc.
 
