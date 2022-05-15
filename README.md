@@ -18,6 +18,10 @@ My attempt to show how smooth this blaster is: https://www.youtube.com/watch?v=R
 
 This is a full overhaul of the Charamile Designs Skewer, turning it into an extremely smooth, very sturdy pump action blaster.
 
+## Reviews
+
+Boomstick Mods: https://youtu.be/cf2TygG97xE
+
 
 ### "Isn't this just a Talon Claw?"
 
