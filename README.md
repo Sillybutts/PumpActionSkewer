@@ -23,7 +23,7 @@ This is a full overhaul of the Charamile Designs Skewer, turning it into an extr
 Boomstick Mods: https://youtu.be/cf2TygG97xE
 
 
-### "Isn't this just a Talon Claw?"
+## "Isn't this just a Talon Claw?"
 
 No. This blaster varies greatly from the Talon Claw. It is more similar in feel to an SBL than a TCv3.
 
