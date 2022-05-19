@@ -2,6 +2,7 @@
 A pump action version of the Charamile Designs Skewer.
 
 - Changelog: 5-12-22: Updated design to V2, with tons of improvements. Wiped previous changelogs, as they are now non-applicable. v1 files are still available in a .zip file.
+- Changelog: 5-19-22: Added a replacement Coupler for use with the extendable stock option. It is in the extendable stock folder, file name "Coupler XTND".
 
 <img src="GHimages/Pump%20Skewer%20vs%20normal%20Skewer%20-%20Copy.jpg" width="200"><img src="GHimages/DFEF8FEE-68A9-46DF-8DDC-1349788B780F.jpg" width="200"><img src="GHimages/FAEECA8B-545A-49CA-9C09-9B65EB5A568B.jpg" width="200"><img src="GHimages/IMG_1261.jpg" width="200"><img src="GHimages/IMG_7059.jpg" width="200"><img src="GHimages/PXL_20220424_155601000.jpg" width="200"><img src="GHimages/PXL_20220426_164134973.jpg" width="200">
 
@@ -10,7 +11,7 @@ A pump action version of the Charamile Designs Skewer.
 <img src="GHimages/Pump%20Skewer%20vs%20normal%20Skewer%20-%20Copy.jpg" width="500">
 <img src="GHimages/Barrel_retentions.png" width="500">
 <img src="GHimages/Options.png" width="500">
-
+<img src="GHimages/PumpSkewerV2%20Color%20Guide.png" width="500">
 General blaster overview: https://www.youtube.com/watch?v=gQN2X9iRdS4
 
 My attempt to show how smooth this blaster is: https://www.youtube.com/watch?v=RM3zugnxCN0
@@ -59,6 +60,8 @@ All STLs were exported in print orientation. F3D source files are also provided.
 Infills:
 Print everything small at 4 walls, 20% infill. Everything large at 4 walls, 10% infill.
 
+<img src="GHimages/PumpSkewerV2%20Color%20Guide.png" width="500">
+
 ## Assembly
 
 Video: WIP
@@ -89,6 +92,7 @@ And here's my Etsy: https://www.etsy.com/shop/sillybuttsshop
 
 ## Images
 
+<img src="GHimages/PumpSkewerV2%20Color%20Guide.png" width="500">
 <img src="GHimages/Barrel_retentions.png" width="500">
 <img src="GHimages/Options.png" width="500">
 <img src="GHimages/Pump%20Skewer%20vs%20normal%20Skewer%20-%20Copy.jpg" width="500">
