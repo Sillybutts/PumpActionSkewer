@@ -21,6 +21,8 @@ My attempt to show how smooth this blaster is: https://www.youtube.com/watch?v=R
 
 This is a full overhaul of the Charamile Designs Skewer, turning it into an extremely smooth, very sturdy pump action blaster.
 
+If you want a nice matching foregrip for your Pump Skewer, check out this very nice Lynx foregrip by Hooglanj https://github.com/hooglanj/Foamgasm-Lynx-Mods/blob/main/Foamgasm%20Lynx%20Mods%20STLs/Picatinny%20Foregrip.zip It matches very well! 
+
 ## Reviews
 
 Boomstick Mods: https://youtu.be/cf2TygG97xE
