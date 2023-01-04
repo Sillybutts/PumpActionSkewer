@@ -11,6 +11,7 @@ A pump action version of the Charamile Designs Skewer.
 ## Description
 
 <img src="GHimages/Pump%20Skewer%20vs%20normal%20Skewer%20-%20Copy.jpg" width="500">
+<img src="GHimages/T4%20OR%20V3%20BAR%20GUIDE.png" width="500">
 <img src="GHimages/Barrel_retentions.png" width="500">
 <img src="GHimages/Options.png" width="500">
 <img src="GHimages/PumpSkewerV2%20Color%20Guide.png" width="500">
@@ -50,6 +51,8 @@ Fully printed/assembled blasters are available from these sellers:
 
 Full hardware list/BOM: https://docs.google.com/spreadsheets/d/1T-M-nh51F4b9XmtsPprrcFsghNnCDYY_msC4naolbu8/
 
+<img src="GHimages/T4%20OR%20V3%20BAR%20GUIDE.png" width="500">
+
 This blaster is compatible with TCV3 rambases, TC ramrods, and TCV3 plungers. This blaster uses the same trigger, sear, and mag release as the Skewer, so any replacements for those parts should work. You can also use x-orings meant for a TC in this blaster. 
 
 This blaster works with any TC length barrels. 
@@ -66,9 +69,11 @@ Print everything small at 4 walls, 20% infill. Everything large at 4 walls, 10% 
 
 <img src="GHimages/PumpSkewerV2%20Color%20Guide.png" width="500">
 
+<img src="GHimages/T4%20OR%20V3%20BAR%20GUIDE.png" width="500">
+
 ## Assembly
 
-Video: WIP
+Video: https://youtu.be/OqfcD2x6DxA
 
 ## Misc.
 
