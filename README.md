@@ -5,6 +5,7 @@ A pump action version of the Charamile Designs Skewer.
 - Changelog: 5-19-22: Added a replacement Coupler for use with the extendable stock option. It is in the extendable stock folder, file name "Coupler XTND".
 - Changelog: 5-20-22: Updated the 3 fixed stocks to have proper clearance for the printed stock spacer. No more major rubbing.
 - Changelog: 5-29-22: Added a replacement Washer part for use with the fully guided spring and the extendable Worker stock.
+- Changelog: 1-4-23: Added assembly video link to the readme, added T4 bar compatible version that I thought I had released in May of 2022, but I apparently COMPLETELY FORGOT to post it. Its been done for more than half a year, but not posted for some reason. So that's there now :)
 
 <img src="GHimages/Pump%20Skewer%20vs%20normal%20Skewer%20-%20Copy.jpg" width="200"><img src="GHimages/DFEF8FEE-68A9-46DF-8DDC-1349788B780F.jpg" width="200"><img src="GHimages/FAEECA8B-545A-49CA-9C09-9B65EB5A568B.jpg" width="200"><img src="GHimages/IMG_1261.jpg" width="200"><img src="GHimages/IMG_7059.jpg" width="200"><img src="GHimages/PXL_20220424_155601000.jpg" width="200"><img src="GHimages/PXL_20220426_164134973.jpg" width="200">
 
