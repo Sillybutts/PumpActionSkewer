@@ -9,6 +9,11 @@ A pump action version of the Charamile Designs Skewer.
 
 <img src="GHimages/Pump%20Skewer%20vs%20normal%20Skewer%20-%20Copy.jpg" width="200"><img src="GHimages/DFEF8FEE-68A9-46DF-8DDC-1349788B780F.jpg" width="200"><img src="GHimages/FAEECA8B-545A-49CA-9C09-9B65EB5A568B.jpg" width="200"><img src="GHimages/IMG_1261.jpg" width="200"><img src="GHimages/IMG_7059.jpg" width="200"><img src="GHimages/PXL_20220424_155601000.jpg" width="200"><img src="GHimages/PXL_20220426_164134973.jpg" width="200">
 
+<a href="https://www.printables.com/model/875274-pump-skewer-v2-nerf-blaster-homemade"><img alt="Printables Button" style="border-width:0" src="GHimages/sillybutts%20is%20now%20on%20printables%20thumbnail.png" height="400" /></a>
+
+## I ALSO UPLOAD TO PRINTABLES https://www.printables.com/model/875274-pump-skewer-v2-nerf-blaster-homemade
+
+
 ## Description
 
 <img src="GHimages/Pump%20Skewer%20vs%20normal%20Skewer%20-%20Copy.jpg" width="500">
